@@ -59,6 +59,7 @@
 				29DFBC5E18F505DB0071CBB5 /* MentalMath */,
 				29DFBC5718F505DB0071CBB5 /* Frameworks */,
 				29DFBC5618F505DB0071CBB5 /* Products */,
+				29DFBC5C18F505DB0071CBB5 /* CoreGraphics.framework */,
 			);
 			sourceTree = "<group>";
 		};
@@ -73,9 +74,9 @@
 		29DFBC5718F505DB0071CBB5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				29DFBC7318F505DB0071CBB5 /* ViewController.xib */,
 				29DFBC5818F505DB0071CBB5 /* UIKit.framework */,
 				29DFBC5A18F505DB0071CBB5 /* Foundation.framework */,
-				29DFBC5C18F505DB0071CBB5 /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -87,7 +88,6 @@
 				29DFBC6818F505DB0071CBB5 /* AppDelegate.m */,
 				29DFBC7018F505DB0071CBB5 /* ViewController.h */,
 				29DFBC7118F505DB0071CBB5 /* ViewController.m */,
-				29DFBC7318F505DB0071CBB5 /* ViewController.xib */,
 				29DFBC5F18F505DB0071CBB5 /* Supporting Files */,
 			);
 			path = MentalMath;
@@ -196,6 +196,7 @@
 				29DFBC7418F505DB0071CBB5 /* en */,
 			);
 			name = ViewController.xib;
+			path = MentalMath;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
